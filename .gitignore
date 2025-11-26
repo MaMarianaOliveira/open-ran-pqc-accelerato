@@ -1,0 +1,19 @@
+# Ignorar arquivos temporários do Quartus (FPGA)
+/hardware/**/db/
+/hardware/**/incremental_db/
+/hardware/**/output_files/
+*.qws
+*.sof
+*.pof
+*.jdi
+*.summary
+*.smsg
+
+# Ignorar compilação do Arduino (Firmware)
+/firmware/**/build/
+*.elf
+*.hex
+
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db
