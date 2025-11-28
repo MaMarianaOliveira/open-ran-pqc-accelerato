@@ -1,19 +1,27 @@
-# Ignorar arquivos temporários do Quartus (FPGA)
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db
+# --- Intel Quartus FPGA (Arquivos temporários e de build) ---
 /hardware/**/db/
 /hardware/**/incremental_db/
 /hardware/**/output_files/
+/hardware/**/simulation/
 *.qws
 *.sof
 *.pof
 *.jdi
 *.summary
 *.smsg
+*.pin
+*.done
+*.qpf.bak
+*.qsf.bak
 
-# Ignorar compilação do Arduino (Firmware)
+# --- Arduino (Compilação) ---
 /firmware/**/build/
 *.elf
 *.hex
 
-# Ignorar arquivos de sistema
+# --- Sistema ---
 .DS_Store
 Thumbs.db
