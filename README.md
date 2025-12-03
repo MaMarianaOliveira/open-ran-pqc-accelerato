@@ -20,4 +20,4 @@ Prova de conceito (PoC) de aceleração de hardware (offloading) para criptograf
 * `/results`: Logs de benchmark e gráficos de performance.
 
 ## 📚 Referências
-Baseado nas especificações da **O-RAN Alliance** e **NIST FIPS 202**.
+Baseado nas especificações da **O-RAN Alliance** e **NIST FIPS 203**.
