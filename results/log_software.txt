@@ -1,0 +1,19 @@
+=== Open RAN PQC Accelerator Benchmark ===
+Initializing vDU Host Simulation...
+Packet Size: 256 bytes
+------------------------------------------
+
+[TEST] Starting Software-only processing...
+Run 1: 120 us
+Run 2: 120 us
+Run 3: 120 us
+Run 4: 120 us
+Run 5: 120 us
+Run 6: 120 us
+Run 7: 120 us
+Run 8: 120 us
+Run 9: 120 us
+Run 10: 120 us
+------------------------------------------
+>> AVERAGE Software Latency: 120.00 us
+------------------------------------------
