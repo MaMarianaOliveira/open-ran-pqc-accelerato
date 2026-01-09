@@ -27,5 +27,5 @@ Baseado nas especificações da **O-RAN Alliance** e **NIST FIPS 203**.
 ### ✅ Validação do Hardware (FPGA)
 Configuração do ambiente e gravação do bitstream bem-sucedida via JTAG Virtual.
 
-![Sucesso na Gravação JTAG](quartus_jtag_success.png)
+![Sucesso na Gravação JTAG](results/quartus_jtag_success.png)
 *Figura 1: Quartus Programmer indicando 100% de sucesso na gravação do core SHA-3 na FPGA.*
